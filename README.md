@@ -1,0 +1,1 @@
+WeatherWatch is a user-friendly weather dashboard application designed to provide real-time weather updates and a 5-day weather forecast for any city. Built with HTML, CSS, and JavaScript, this project utilizes the OpenWeather API to deliver accurate weather information and offer a smooth user experience for travelers and weather enthusiasts.
